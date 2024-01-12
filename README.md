@@ -6,8 +6,15 @@ Please note that the bot files are not uploaded here they are in a secure locati
 
 ## Beta Version Changes
 
-
 ### Jan 11 2024 | Virus Gaming Made the following changes!
 - Uploaded the Discord Bot to git hub
 - Added diffrent versions to github
 - Made a public version of the github to report any issues
+
+
+### Jan 12 2024 | Virus Gaming made the following changes!
+
+- Uploaded all the bots images to a webserver
+- Started working on the ticket system
+- Started working on a poll system
+(Still currently working on the bot!)
