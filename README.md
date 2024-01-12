@@ -4,7 +4,7 @@ Hello, This is the discord bot for Crimson Valley Network, This bot was made by 
 
 Please note that the bot files are not uploaded here they are in a secure location this repo is for you to report any issues on the discord bot
 
-## Discord Bot Beta Version Changes
+## Beta Version Changes
 
 
 ### Jan 11 2024 | Virus Gaming Made the following changes!
